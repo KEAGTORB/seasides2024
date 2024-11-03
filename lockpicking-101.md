@@ -80,4 +80,4 @@ Create a comfortable and distraction-free environment for your practice sessions
 
 Here are some related projects
 
-[advanced techniques](https://github.com/keagtorb/seasides2025/advancedlockpicking)
+[advanced techniques](https://github.com/keagtorb/seasides2025/advanced-lockpicking)
