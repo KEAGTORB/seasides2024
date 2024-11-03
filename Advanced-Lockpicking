@@ -1,0 +1,12 @@
+# Advanced Lockpicking
+
+## Introduction to Advanced Techniques
+In this section, we will explore advanced lockpicking techniques that go beyond basic pin tumbler locks, including **RFID locks**, **car locks**, **safes**, and more, which are essential for any serious lockpicking enthusiast. If you are new to lockpicking, we recommend taking a look at the basics [here](https://github.com/KEAGTORB/seasides2025/blob/main/lockpicking-101.md). We will also discuss **copying keys** using two methods: **Flipper Zero** and an app called **Key Decoder**. Additionally, we will cover tools beyond the basic hook pick and tension wrench, including **Lishi tools** and the tools used to open **disc detainer locks**.
+
+## Types of Locks Beyond Pin Tumblers
+
+### Disc Detainer Locks
+- **Description**: Disc detainer locks consist of a series of discs that must be rotated to a specific angle to unlock. They are often used in high-security applications.
+
+![Disc Detainer Lock Image](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/disk-lock.jpg) 
+- **Techniques**: Use a specialized disc detainer pick or a tension tool to hold the discs in place while rotating them. The goal is to set each disc to its correct angle before the lock can be opened.
