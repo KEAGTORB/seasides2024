@@ -22,27 +22,27 @@ The pin tumbler lock is one of the most common lock types. It consists of a cyli
 #### Cylinder
 This is the main part of the lock where you insert the key. When the correct key is used, the cylinder turns and unlocks the lock
 
-![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/cylinder.jpg)
+![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/cylinder.png)
 
 #### Key Pins 
 These are the lower pins that rest directly on top of the driver pins. They move up and down when the correct key is inserted.
 
-![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/key%20pins.jpg)
+![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/key%20pins.png)
 
 #### Driver Pins 
 These are the upper pins that sit above the key pins. They are pushed down by the springs and hold the key pins in place until the correct key aligns them at the shear line.
 
-![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/driver%20pins.jpg)
+![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/driver%20pins.png)
 
 #### Springs
 Springs are small metal pieces that push the pins down into the lock. They keep the pins in place and help them reset after you remove the key.
 
-![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/springs.jpg)
+![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/springs.png)
 
 #### Shear Line
 This is the imaginary line inside the lock where the pins must align for the cylinder to turn. If the pins are lined up at the shear line, the lock can be opened.
 
-![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/shear.jpg)
+![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/shear.png)
 
 
 ## Essential Lockpicking Tools
