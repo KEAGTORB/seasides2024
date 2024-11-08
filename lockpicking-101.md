@@ -78,7 +78,7 @@ Create a comfortable and distraction-free environment for your practice sessions
 
 ## Related
 
-Here are some related projects
+Here are some related reads
 
 [advanced techniques](https://github.com/KEAGTORB/seasides2025/blob/main/advanced-lockpicking.md)
 
