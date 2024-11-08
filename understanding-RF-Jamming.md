@@ -106,7 +106,7 @@ The HackRF portable device is a versatile tool for RF research, enabling a range
 The HackRF’s versatility makes it valuable for hands-on learning and experimentation in RF security, especially in testing real-world countermeasures.
 
 ## Releted
-
+Here are some related reads
  - [RF Security in the Age of IoT](path/to/file)
 
 
