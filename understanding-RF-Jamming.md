@@ -107,7 +107,7 @@ The HackRF’s versatility makes it valuable for hands-on learning and experimen
 
 ## Releted
 Here are some related reads
- - [RF Security in the Age of IoT](path/to/file)
+ - [RF Security in the Age of IoT](https://github.com/KEAGTORB/seasides2025/blob/main/rf-security-in-the-age-of-IoT.md)
 
 
 
