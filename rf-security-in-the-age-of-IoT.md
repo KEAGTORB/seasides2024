@@ -1,15 +1,7 @@
 
 # RF Security in the Age of IoT: Challenges and Countermeasures
 
-## Table of Contents
-1. [Radio Frequency Security: A Key Part of IoT Safety](#radio-frequency-security-a-key-part-of-iot-safety)
-2. [Understanding IoT and Its Security Challenges](#understanding-iot-and-its-security-challenges)
-3. [The Role of Radio Frequency in IoT](#the-role-of-radio-frequency-in-iot)
-4. [Key Aspects of RF Security in IoT](#key-aspects-of-rf-security-in-iot)
-5. [Threats to IoT RF Security](#threats-to-iot-rf-security)
-6. [RF Security Measures and Implementation for IoT](#rf-security-measures-and-implementation-for-iot)
-7. [Conclusion](#conclusion)
-8. [Related](#Related)
+
 
 ## 1. Radio Frequency Security: A Key Part of IoT Safety
 
