@@ -61,19 +61,19 @@ This section covers the various tools used in lockpicking, focusing on different
  ![Screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/tension.png)
 
 
- ## Basic Lockpicking Techniques
+## Basic Lockpicking Techniques
 
- ### Single Pin Picking  
+### Single Pin Picking  
  This fundamental technique involves manipulating each pin in a lock individually. This section details the steps of SPP, including how to feel for binding pins and set them one at a time. It highlights the importance of patience and finesse, making it an essential skill for serious lockpickers.
 
  ![single-pick](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXpmNzVoMTBxeHZvZmM2cTdoYWgzMXprd2UwM3lsc2oyOTExcGU2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ezTqRwBoQRZhm/giphy.gif)
 
- ### Raking 
+### Raking 
  Raking is a faster method that uses a rake pick to jostle all the pins simultaneously. This section explains the technique and when it’s most effective, particularly for simpler locks. It also emphasizes the difference between raking and SPP, guiding readers on how to choose the right technique based on the lock’s complexity.
 
 ![raking](https://unitedlocksmith.net/wp-content/uploads/raking-a-lock.gif)
 
- ### Applying Tension
+### Applying Tension
 This technique focuses on how to effectively apply tension while picking. It explains the relationship between tension and pin binding, highlighting how too much or too little tension can hinder progress. Practical tips on finding the right balance help readers develop this critical skill.
 
 ## Practice and Safety Tips
