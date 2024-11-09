@@ -145,34 +145,32 @@ An RFID door is a type of access control system that uses Radio Frequency Identi
 
 ##  Using Flipper Zero 
 
-The [keyCopier](https://github.com/zinongli/KeyCopier) app, compatible with Flipper Zero, allows users to copy a physical key by measuring its bitting.
+The keyCopier app, compatible with Flipper Zero, allows users to copy a physical key by measuring its bitting.
 
 ## Steps
 
-1. **Download and Install KeyMaker App**  
-   Ensure that the KeyMaker app is installed on your mobile device. This app works alongside Flipper Zero and can analyze a key’s bitting through a picture.
-
+1. **Download and Install App**  
+   Ensure that the keyCopier app is installed on your flipper. 
    ![KeyMaker App Image Placeholder](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/keymaker-app.png)
 
-2. **Take a Picture of the Key**  
-   Place the key on a flat surface with good lighting. Open the KeyMaker app and take a clear, high-resolution photo of the key, ensuring that the bitting (teeth pattern) is visible.
+2. **Place it on top of the screen.**  
+  
 
    ![Key Photo Placeholder](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/key-photo.png)
 
-3. **Analyze the Key with KeyMaker**  
-   In the KeyMaker app, use the “Analyze” feature. The app will assess the key’s bitting and provide measurements that represent each cut depth.
-
+3. **Use the contour to align your key**  
+   
    ![Analyze Key Image Placeholder](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/analyze-key.png)
 
-4. **Save the Key Profile to Flipper Zero**  
-   Once the measurements are available, save the key profile in a compatible format that can be used with the Flipper Zero. Transfer the data from the KeyMaker app to the Flipper Zero.
+4. **Adjust each pin's depth until they match **  
+  
 
-   ![Save Key Profile Image Placeholder](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/save-key-profile.png)
+   ![adjust keye GIF](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/save-key-profile.png)
 
-5. **Use the Flipper Zero to Replicate the Key**  
-   Insert the saved key profile into a compatible key-making device, or use the measurements to manually cut a duplicate key with a key-cutting tool.
+5. **Save the Key Profile to Flipper Zero**  
+  
 
-   ![Flipper Zero Key Replication Image Placeholder](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/flipper-zero-replication.png)
+   ![save](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/flipper-zero-replication.png)
 
 
 
