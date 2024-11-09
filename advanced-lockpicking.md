@@ -145,7 +145,7 @@ An RFID door is a type of access control system that uses Radio Frequency Identi
 
 ##  Using Flipper Zero 
 
-The KeyMaker app, compatible with Flipper Zero, allows users to copy a physical key by measuring its bitting.
+The [keyCopier](https://github.com/zinongli/KeyCopier) app, compatible with Flipper Zero, allows users to copy a physical key by measuring its bitting.
 
 ## Steps
 
