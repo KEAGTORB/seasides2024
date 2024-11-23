@@ -8,7 +8,7 @@ In this section, we will explore advanced lockpicking techniques that go beyond 
 ### Disc Detainer Locks
 - **Description**: Disc detainer locks consist of a series of discs that must be rotated to a specific angle to unlock. They are often used in high-security applications.
 
-![Disc Detainer Lock Image](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/disklock.png) 
+![Disc Detainer Lock Image](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/disklock.png){width=50%} 
 - **Techniques**: Use a specialized disc detainer pick or a tension tool to hold the discs in place while rotating them. The goal is to set each disc to its correct angle before the lock can be opened.
 
  ![screenshot](https://raw.githubusercontent.com/KEAGTORB/seasides2025/refs/heads/main/images/lockpicking/disk-lock-with-pick.png)
